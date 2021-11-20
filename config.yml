@@ -1,0 +1,16 @@
+app:
+  PORT: 8039
+  HOST: "localhost"
+
+database:
+  DB_USER: "postgres"
+  DB_PASS: "postgres"
+  DB_PORT: "5432"
+  DB_HOST: "localhost"
+  DB_NAME: "testing-db"
+
+ftp:
+  FTP_USER: "FTP_USER_XXX"
+  FTP_PASS: "FTP_PASS_XXX"
+  FTP_HOST: "FTP_HOST_XXX"
+  FTP_PORT: 0000000
