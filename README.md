@@ -37,6 +37,11 @@ go run main.go
 http://localhost:8039/swagger/index.html
 ```
 
+# Struktur Folder in FTP
+- Root (/)
+    - INV_PRODUCT
+        - HISTORY
+
 # Tools for build App
 | Tools | Version | Description |
 | ----- | ----- | ----- |
